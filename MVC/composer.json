@@ -1,0 +1,12 @@
+{
+    "name": "alfaw/mvc",
+    "description": "for learn mvc",
+    "type": "project",  
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alfaw\\Mvc\\": "src/"
+        }
+    },
+    "require": {}
+}

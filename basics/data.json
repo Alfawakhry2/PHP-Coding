@@ -1,0 +1,10 @@
+{
+    "name": "Ahmed",
+    "email": "ahmed@example.com",
+    "age": 25,
+    "skills": [
+        "PHP",
+        "Laravel",
+        "MySQL"
+    ]
+}
